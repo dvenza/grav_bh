@@ -1,5 +1,6 @@
 ---
 title: 'Centrale nucleare di Lucens'
+media_order: '20120422 Lucens (8445).jpg'
 date: '22-04-2012 17:27'
 ---
 
@@ -7,7 +8,7 @@ Dopo aver scoperto che abito a un tiro di schioppo da dove stava Audrey Hepburn,
 
 Ora è dismessa e smantellata, ma nel gennaio 1969 ha fatto parlare di sé a causa di un grave incidente che ne ha causato la chiusura definitiva. Gli abitanti della zona erano stati avvertiti soltanto il giorno dopo l’incidente.
 
-{% bhphoto 20120422-lucens-8445 center %}
+![Lucens](20120422%20Lucens%20%288445%29.jpg)
 
 Oggi se ne parla perché un improvviso traffico di gente e materiali è stato notato verso la centrale, senza che gli abitanti o le autorità siano stati avvertiti di qualsiasi cambiamento della situazione. Il reattore si trovava all’interno di una caverna scavata nella roccia che, a seguito dell’incidente, è rimasta pesantemente contaminata ed è stata sigillata.
 
