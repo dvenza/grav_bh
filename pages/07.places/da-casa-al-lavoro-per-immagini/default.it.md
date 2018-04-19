@@ -1,6 +1,6 @@
 ---
 title: 'Da casa al lavoro per immagini'
-media_order: '20110810 Casa Lavoro (6933).jpg,20110810 Casa Lavoro (6936).jpg'
+media_order: '20110810 Casa Lavoro (6933).jpg,20110810 Casa Lavoro (6936).jpg,20110810 Casa Lavoro (6937).jpg'
 date: '13-08-2011 00:27'
 taxonomy:
     category:
@@ -22,7 +22,9 @@ Passata la strada principale si entra nel paese vecchio, una serie di casette ad
 Il paese è molto piccolo e il centro storico, correndo lungo un lato della strada principale, è composto soltanto da due file di case.
 
 La maggior parte del terreno intorno al paese è dedicato ad attività agricole. In questi sei mesi ho visto coltivare di tutto, insalata, fragole, lamponi, grano, mais, mele, pere, patate e chissà cos’altro.
-{% bhphoto 20110810-casa-lavoro-6937 right %}
+
+![Coltivazioni](20110810%20Casa%20Lavoro%20%286937%29.jpg)
+
 Non a caso, avvicinandoci al piccolo fiumiciattolo (sì è tutto piccolo qui) chiamato *Venoge*, incontriamo un melo, carico di frutta.
 È ancora un po' presto e le mele sono verdi, ma fa comunque bella impressione.
 
