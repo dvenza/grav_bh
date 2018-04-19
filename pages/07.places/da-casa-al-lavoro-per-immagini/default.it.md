@@ -1,6 +1,6 @@
 ---
 title: 'Da casa al lavoro per immagini'
-media_order: '20110810 Casa Lavoro (6933).jpg,20110810 Casa Lavoro (6936).jpg,20110810 Casa Lavoro (6937).jpg'
+media_order: '20110810 Casa Lavoro (6933).jpg,20110810 Casa Lavoro (6936).jpg,20110810 Casa Lavoro (6937).jpg,20110810 Casa Lavoro (6940).jpg,20110810 Casa Lavoro (6941).jpg,20110810 Casa Lavoro (6942).jpg'
 date: '13-08-2011 00:27'
 taxonomy:
     category:
@@ -28,14 +28,15 @@ La maggior parte del terreno intorno al paese è dedicato ad attività agricole.
 Non a caso, avvicinandoci al piccolo fiumiciattolo (sì è tutto piccolo qui) chiamato *Venoge*, incontriamo un melo, carico di frutta.
 È ancora un po' presto e le mele sono verdi, ma fa comunque bella impressione.
 
-{% bhphoto 20110810-casa-lavoro-6940 center %}
+![Il Ponte](20110810%20Casa%20Lavoro%20%286940%29.jpg)
 
 Subito dopo si incontra il famoso ponte di Denges, in pratica l’unica struttura di rilievo nel raggio di qualche chilometro. Non a caso viene messo in copertina del depliant turistico del comune.
-{% bhphoto 20110810-casa-lavoro-6941 right %}
+
+![Venoge](20110810%20Casa%20Lavoro%20%286941%29.jpg)
 
 La *Venoge* segna, in quella zona, il confine tra il distretto amministrativo di Morges e quello di Losanna e, cosa che mi interessa più da vicino, il confine della zona in cui vale l’abbonamento del bus di Losanna (cioè non vale dove abito).
 
-{% bhphoto 20110810-casa-lavoro-6942 left %}
+![Via Francigena](20110810%20Casa%20Lavoro%20%286942%29.jpg)
 
 Appena superato il ponte si incontra subito un altro sentiero, si tratta niente popò di meno che della [Via Francigena](http://it.wikipedia.org/wiki/Via_Francigena), un antico percorso di pellegrinaggio tra Roma e Canterbury, che ancora oggi è usato e, almeno in certi tratti, manutenuto.
 
