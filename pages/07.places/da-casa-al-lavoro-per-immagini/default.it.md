@@ -1,5 +1,6 @@
 ---
 title: 'Da casa al lavoro per immagini'
+media_order: '20110810 Casa Lavoro (6933).jpg,20110810 Casa Lavoro (6936).jpg'
 date: '13-08-2011 00:27'
 taxonomy:
     category:
@@ -8,7 +9,7 @@ taxonomy:
 
 Stamattina, vista la bella giornata, sono andato a lavorare a piedi e ho portato con me la macchina fotografica per fare un riassuntino.
 
-{% bhphoto 20110810-casa-lavoro-6933 left %}
+![Denges](20110810%20Casa%20Lavoro%20%286933%29.jpg)
 
 Si parte dalla ridente cittadina di [Denges](http://en.wikipedia.org/wiki/Denges), che il sindaco ci dice avere abitanti di 31 nazionalità differenti. La pagina di Wikipedia riporta altre statistiche, un totale di circa 1500 abitanti, di cui 30 (ora 31) parlano italiano.
 
@@ -16,7 +17,7 @@ Questo è il municipio, con la campana che suona le ore ed una simpatica signori
 
 Passata la strada principale si entra nel paese vecchio, una serie di casette addossate una all’altra e un paio di piccoli vicoli chiusi alle auto.
 
-{% bhphoto 20110810-casa-lavoro-6936 left %}
+![Denges](20110810%20Casa%20Lavoro%20%286936%29.jpg)
 
 Il paese è molto piccolo e il centro storico, correndo lungo un lato della strada principale, è composto soltanto da due file di case.
 
