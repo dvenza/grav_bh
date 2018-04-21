@@ -1,5 +1,6 @@
 ---
 title: Islanda
+media_order: '20160603 Islanda 3377.jpg,P_20160603_221103-768x1365.jpg,P_20160609_110701.jpg,20160604 Islanda 3723.jpg,P_20160604_195441.jpg,20160604 Islanda 3762.jpg,P_20160605_110903.jpg,20160606 Islanda 3875.jpg,20160606 Islanda 3850.jpg,20160606 Islanda 3865.jpg,P_20160607_100259_HDR.jpg,20160606 Islanda 3885.jpg,20160607 Islanda 3924.jpg'
 date: '15-08-2016 15:20'
 ---
 
@@ -24,16 +25,20 @@ Quella dell'arrivo è stata forse l'unica notte veramente buia, a causa della ne
 
 ## Il mitico Suzuki grand vitara
 
-{% bhphoto 20160603-islanda-3377 right %} Due parole sul mezzo: i noleggi di 4x4 sono costosi, specialmente quelli che si trovano all'aeroporto. In un lampo di genio abbiamo cercato nei dintorni, trovando [Kefcar](http://www.kefcar.is) che ci ha offerto un vecchio Suzuki del 2005 per circa 500 euro, per i sei giorni. Tanta ruggine, uno sterzo con un po' tanto gioco, un cambio durissimo, ma proprio per quello ci ha fatto tanta simpatia. Bello alto, grandi finestrini, perfetto per girare in un posto con panorami mozzafiato e strade malridotte.
+![Il mezzo di locomozione](20160603%20Islanda%203377.jpg)
+
+Due parole sul mezzo: i noleggi di 4x4 sono costosi, specialmente quelli che si trovano all'aeroporto. In un lampo di genio abbiamo cercato nei dintorni, trovando [Kefcar](http://www.kefcar.is) che ci ha offerto un vecchio Suzuki del 2005 per circa 500 euro, per i sei giorni. Tanta ruggine, uno sterzo con un po' tanto gioco, un cambio durissimo, ma proprio per quello ci ha fatto tanta simpatia. Bello alto, grandi finestrini, perfetto per girare in un posto con panorami mozzafiato e strade malridotte.
 
 ## Reykjavik
 
-![Porta della cattedrale](http://www.brownhat.org/wp/wp-content/uploads/2016/08/P_20160603_221103-394x700.jpg)
+![Porta della cattedrale](P_20160603_221103-768x1365.jpg)
+
 Non ho trovato Reykjavik una città particolarmente interessante. È la capitale ed è relativamente grossa, ma in centro non ho trovato nulla di particolarmente attraente, insomma una città facilmente dimenticabile se non fosse che è l'unica città con dei palazzi veri e propri che abbiamo visto.
 
 Ci sono alcune strade più o meno pedonali che formano una zona centrale, dove ci sono principalmente ristoranti etnici, uffici turistici e negozi di souvenir. Ci sono anche alcuni musei, abbiamo fatto un giro in quello della fotografia, in cui c'era una interessante mostra sulla vita e lo spopolamento del nord dell'Islanda.
 
-![Organ stops](http://www.brownhat.org/wp/wp-content/uploads/2016/08/P_20160609_110701-700x394.jpg)
+![Organ stops](P_20160609_110701.jpg)
+
 La famosa cattedrale è in effetti impressionante ed è curiosa la porta che sembra quasi raffigurare [Cthulhu](http://lovecraft.wikia.com/wiki/Cthulhu). Dentro c'è un grosso organo che proprio in quei giorni stavano smontando e ripulendo.
 
 Abbiamo mangiato tre volte a Reykjavik. La prima volta in un ristorantino consigliato da TripAdvisor, dove abbiamo fatto la conoscenza della Skyr. Dedicherò un intero capitolo allo Skyr più avanti perché se lo merita. Questo ristorante mi è piaciuto parecchio, era il [Gamla vínhúsið](http://gamlavinhusid.is/). La seconda volta abbiamo mangiato per stanchezza in un ristorante piuttosto turistico e poco interessante, affianco al primo. Infine abbiamo fatto merenda e colazione in un posto che fa crêpes, gestito da una italiana: si chiama *Eldur and Is* e si trova all'inizio della strada in salita che porta alla cattedrale, sulla destra. Consiglio crêpe con lo Skyr e frutti di bosco.
@@ -42,33 +47,53 @@ Degna di una piccola nota la zona del porto da dove partono i giri in barca per 
 
 ## Heimaey
 
-{% bhphoto 20160604-islanda-3723 right %}
+![Vestmannaeyjar](20160604%20Islanda%203723.jpg)
+
 Heimaey è un isola che fa parte del piccolo arcipelago chiamato Vestmannaeyjar, formato per lo più da scogli inaccessibili. Sull'isola c'è una cittadina, chiamata Vestmannaeyjar (come l'arcipelago), raggiungibile con un traghetto dagli orari un po' complicati. Dato che l'isola è piccola si può girare facilmente a piedi ed è consigliabile lasciare la macchina nel grosso parcheggio prima dell'imbarco del traghetto, per un risparmio economico considerevole Il pernottamento sull'isola ci è stato consigliato da Manuela, che ringrazio sentitamente, è uno dei posti più interessanti che ho visto.
 
-La cittadina è formata quasi esclusivamente da villette, nel 1973 uno dei due vulcani che si trovano in periferia è eruttato, creando un nuovo pezzo di isola, ma distruggendo anche una parte della città. ![Eldfell view](http://www.brownhat.org/wp/wp-content/uploads/2016/08/P_20160604_195441-700x394.jpg) Leggendo wikipedia, si capisce che gli abitanti non si sono lasciati sconvolgere più di tanto: per salvare il porto, la cui imboccatura che stava per essere chiusa dal flusso della lava, hanno usato l'acqua fredda del mare per solidificare la colata e redirigerla altrove. Finita l'eruzione hanno usato il calore residuo per generare elettricità ed acqua calda. Nella foto qui sopra si vede il nuovo pezzo di isola, in basso. In lontananza si vede la costa islandese e il vulcano Eyjafjallajökull, che ha eruttato nel 2010.
+La cittadina è formata quasi esclusivamente da villette, nel 1973 uno dei due vulcani che si trovano in periferia è eruttato, creando un nuovo pezzo di isola, ma distruggendo anche una parte della città.
+
+![Eldfell view](P_20160604_195441.jpg)
+
+Leggendo wikipedia, si capisce che gli abitanti non si sono lasciati sconvolgere più di tanto: per salvare il porto, la cui imboccatura che stava per essere chiusa dal flusso della lava, hanno usato l'acqua fredda del mare per solidificare la colata e redirigerla altrove. Finita l'eruzione hanno usato il calore residuo per generare elettricità ed acqua calda. Nella foto qui sopra si vede il nuovo pezzo di isola, in basso. In lontananza si vede la costa islandese e il vulcano Eyjafjallajökull, che ha eruttato nel 2010.
 
 Il vulcano è alto circa 200 metri e noi l'abbiamo scalato come passeggiatina prima di cena, per farci venire l'appetito. L'ultima parte è un po' più stancante, è ripida e si cammina su del pietrisco, però la vista una volta arrivati sul bordo del cratere è magnifica. Purtroppo, anche un po' a causa della luce bassa quella sera, non ho una foto che renda l'idea del panorama spettacolare.
 
-{% bhphoto 20160604-islanda-3762 center %}
+![Heimaey](20160604%20Islanda%203762.jpg)
 
-L'isola è sede di una forte industria della pesca e passeggiando per il porto, mentre i miei due amici si arrampicavano a caccia (fotografica) di pulcinelle di mare, mi sono ritrovato davanti a dei pannelli pubblicitari inaspettati. ![L'islanda e la Nigeria](http://www.brownhat.org/wp/wp-content/uploads/2016/08/P_20160605_110903-700x394.jpg) Ho scoperto, infatti, che uno dei prodotti più importanti sono sacchi di teste di pesce secco, esportate verso la Nigeria, dove sono considerate una prelibatezza. Notare in basso i simpatici islandesi, provenienti da questa isoletta nebbiosa e tranquilla, vestiti da magnati nigeriani. Le spiegazioni comprendevano anche dettagli sul sistema all'avanguardia per seccare il pesce che è stato recentemente installato nei capannoni lì dietro.
+L'isola è sede di una forte industria della pesca e passeggiando per il porto, mentre i miei due amici si arrampicavano a caccia (fotografica) di pulcinelle di mare, mi sono ritrovato davanti a dei pannelli pubblicitari inaspettati.
+
+![L'islanda e la Nigeria](P_20160605_110903.jpg)
+
+Ho scoperto, infatti, che uno dei prodotti più importanti dell'isola sono le teste di pesce secco, esportate verso la Nigeria, dove sono considerate una prelibatezza. Notare in basso i simpatici islandesi, provenienti da questa isoletta nebbiosa e tranquilla, vestiti da magnati nigeriani. Le spiegazioni comprendevano anche dettagli sul sistema all'avanguardia per seccare il pesce che è stato recentemente installato nei capannoni lì dietro.
 
 Sull'isola c'è un piccolo museo dove, leggenda vuole, ci sia una pulcinella di mare viva e vegeta. Pare anche che la lasciassero toccare e accarezzare, ma che a seguito dell'aumento del numero di turisti ora non si possa più (ma nei giorni di baso afflusso, il nostro albergatore ha lasciato intendere che forse...). Non abbiamo indagato, per mancanza di tempo e, almeno per me, perché, insomma, povero uccello tocchignato dalle manine unte dei bambini di mezzo mondo, lasciatelo in pace.
 
 ## Jökulsárlón
 
-{% bhphoto 20160606-islanda-3875 center %}
+![Jökulsárlón](20160606%20Islanda%203875.jpg)
 
 La famosa laguna coi pezzi di ghiaccio blu. Era il posto che volevo assolutamente vedere prima di partire e che, tra i posti più noti e frequentati che abbiamo visto, mi è piaciuto di più.
 
-Intanto bisogna chiarire, di lagune ce ne sono due. Venendo da ovest, c'è Fjallsárlón, un po' più lontano dalla strada e raggiungibile con un corto sterrato. Dopo qualche chilometro c'è un ponte sospeso e la seconda laguna, la più grossa e famosa Jökulsárlón. {% bhphoto 20160606-islanda-3850 right %} Quando siamo passati noi, la prima laguna era molto più piena di blocchi di ghiaccio galleggianti ed essendo leggermente meno accessibile e meno nota c'era più tranquillità e meno pressione turistica.
+Intanto bisogna chiarire, di lagune ce ne sono due. Venendo da ovest, c'è Fjallsárlón, un po' più lontano dalla strada e raggiungibile con un corto sterrato. Dopo qualche chilometro c'è un ponte sospeso e la seconda laguna, la più grossa e famosa Jökulsárlón.
+
+![Fjallsárlón](20160606%20Islanda%203850.jpg)
+
+Quando siamo passati noi, la prima laguna era molto più piena di blocchi di ghiaccio galleggianti ed essendo leggermente meno accessibile e meno nota c'era più tranquillità e meno pressione turistica.
 
 Queste lagune sono formate da "piccole" lingue dell'enorme ghiacciaio che si trova al centro-sud dell'Islanda. Il ghiaccio lentamente scivola verso la laguna, si scioglie e si spezza, alimentando l'industria turistica locale. Sono disponibili giri in gommone e addirittura il giro con l'autobus anfibio, cartoline, souvenir e fast food.
 
-{% bhphoto 20160606-islanda-3865 left %} Il paesaggio è spettacolare. Intorno ci sono le solite collinette semi-desertiche giallo marrone con qualche pianta che cerca disperatamente di sopravvivere. L'acqua è blu. Il vento arriva dritto dal ghiacciaio, freddo, ma anche di aria purissima. I blocchi di ghiaccio tendono ad essere bianco sporco, ma qua e là si vedono gli azzurri e i turchesi che spuntano. Nel canale che sfocia in mare, sotto al ponte sospeso, questi iceberg rotolano, si scontrano e si spezzano, trascinati dalla forte corrente, emettendo dei bassi boati.
+![Jökulsárlón](20160606%20Islanda%203865.jpg)
 
-![La spiaggia coi blocchi di ghiaccio](http://www.brownhat.org/wp/wp-content/uploads/2016/08/P_20160607_100259_HDR-700x394.jpg)
-Subito prima del ponte sospeso, a destra sempre venendo da ovest, poco segnalato c'è il parcheggio per la spiaggia. Parecchie foto circolano di questi blocchi di ghiaccio arenati sulla spiaggia di sabbia nera, ma quando si arriva al ponte tutti, noi compresi, guardano a sinistra, verso la laguna, e si perdono il fatto che a destra c'è un altro spettacolo della natura. Il ghiaccio che esce dalla laguna, infatti, a causa delle correnti e delle maree, si arena facilmente sulla spiaggia, per chilometri e chilometri. {% bhphoto 20160606-islanda-3885 left %} Per fare delle belle foto qui ci vogliono tempo, pazienza e senso artistico. In quel momento, guarda caso, non avevo nessuna delle tre e quindi ci dobbiamo accontentare di queste due foto che rendono appena appena l'idea della lunghezza infinita della spiaggia e della varietà delle forme e dei tipi di ghiaccio che si possono trovare.
+Il paesaggio è spettacolare. Intorno ci sono le solite collinette semi-desertiche giallo marrone con qualche pianta che cerca disperatamente di sopravvivere. L'acqua è blu. Il vento arriva dritto dal ghiacciaio, freddo, ma anche di aria purissima. I blocchi di ghiaccio tendono ad essere bianco sporco, ma qua e là si vedono gli azzurri e i turchesi che spuntano. Nel canale che sfocia in mare, sotto al ponte sospeso, questi iceberg rotolano, si scontrano e si spezzano, trascinati dalla forte corrente, emettendo dei bassi boati.
+
+![La spiaggia coi blocchi di ghiaccio](P_20160607_100259_HDR.jpg)
+
+Subito prima del ponte sospeso, a destra sempre venendo da ovest, poco segnalato c'è il parcheggio per la spiaggia. Parecchie foto circolano di questi blocchi di ghiaccio arenati sulla spiaggia di sabbia nera, ma quando si arriva al ponte tutti, noi compresi, guardano a sinistra, verso la laguna, e si perdono il fatto che a destra c'è un altro spettacolo della natura. Il ghiaccio che esce dalla laguna, infatti, a causa delle correnti e delle maree, si arena facilmente sulla spiaggia, per chilometri e chilometri.
+
+![](20160606%20Islanda%203885.jpg)
+
+Per fare delle belle foto qui ci vogliono tempo, pazienza e senso artistico. In quel momento, guarda caso, non avevo nessuna delle tre e quindi ci dobbiamo accontentare di queste due foto che rendono appena appena l'idea della lunghezza infinita della spiaggia e della varietà delle forme e dei tipi di ghiaccio che si possono trovare.
 
 ## I tormentoni
 
@@ -88,4 +113,8 @@ Roberto si è portato sulle spalle uno zaino enorme con un drone. Con una autono
 
 ### I puffin
 
-I puffin, pulcinelle di mare, sono uccelli che hanno una testa particolare che li fa sembrare tristi ai nostri occhi. In teoria si trovano un po' ovunque lungo le coste, ma noi siamo riusciti ad avvistarne solo uno, di sfuggita. {% bhphoto 20160607-islanda-3924 right %} Il problema era che lungo la via abbiamo incontrato altre persone che ne avevano visti a bizzeffe un po' ovunque. Ricordiamo tra gli altri: le due ragazze francesi che ne hanno visto "un paio" nelle scogliere sopra a Vestmannaeyjar e la coppia di fotografi italiani "uno stormo ci è volato addosso". Qui di lato vedete il *nostro* puffin, quel puntino bianco appena riconoscibile.
+I puffin, pulcinelle di mare, sono uccelli che hanno una testa particolare che li fa sembrare tristi ai nostri occhi. In teoria si trovano un po' ovunque lungo le coste, ma noi siamo riusciti ad avvistarne solo uno, di sfuggita.
+
+![Pulcinella di mare](20160607%20Islanda%203924.jpg)
+
+Il problema era che lungo la via abbiamo incontrato altre persone che ne avevano visti a bizzeffe un po' ovunque. Ricordiamo tra gli altri: le due ragazze francesi che ne hanno visto "un paio" nelle scogliere sopra a Vestmannaeyjar e la coppia di fotografi italiani "uno stormo ci è volato addosso". Qui di lato vedete il *nostro* puffin, quel puntino bianco appena riconoscibile.
