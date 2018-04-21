@@ -1,5 +1,6 @@
 ---
 title: Videos
+media_order: arrivo_nazario.webm
 ---
 
 ## Onde e spruzzi (2016-02-14)
@@ -20,7 +21,7 @@ La parte più spettacolare è il cielo, che si illumina di colori vivaci alla se
 
 In occasione della consegna del sottomarino Nazario Sauro al Museo del Mare di Genova, ho partecipato con gli amici dello [studio Merlo](/merlo-fotografia) alle varie cerimonie in qualità di fotografo e ho potuto fare questo video in timelapse della fase finale dell'arrivo nella darsena e dell'attracco. Il video è full-HD e si può vedere a pieno schermo.
 
-{% video /resources/videos/arrivo_nazario.webm 720 480 %}
+![Arrivo del Nazario Sauro](arrivo_nazario.webm)
 
 ## Shadow on the City (2009-07-27)
 
