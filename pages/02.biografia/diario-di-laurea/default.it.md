@@ -1,6 +1,7 @@
 ---
 title: 'Diario di laurea'
 media_order: '20050608 Tesi (0012).jpg,20050711 Tesi (0026).jpg,20050608 Tesi (0023).jpg,20050704 Tesi (0025).jpg,slides.pdf,thesis.pdf,thesis_en.pdf'
+published: true
 ---
 
 ## Esamoni (2005-02-18)
