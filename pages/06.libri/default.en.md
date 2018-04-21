@@ -4,9 +4,7 @@ title: Books
 
 ## Librarything
 
-Negli ultimi anni ho usato LibraryThing per tenere traccia dei miei libri.
-
-<div id="w3de96783dbc4496a6bdec6c8f17aaf9a"></div><script type="text/javascript" charset="UTF-8" src="https://www.librarything.com/widget_get.php?userid=venza&theID=w3de96783dbc4496a6bdec6c8f17aaf9a"></script><noscript><a href="http://www.librarything.com/profile/venza">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>
+Negli ultimi anni ho usato [LibraryThing](http://www.librarything.com/profile/venza) per tenere traccia dei miei libri.
 
 ## Titan di Stephen Baxter
 
