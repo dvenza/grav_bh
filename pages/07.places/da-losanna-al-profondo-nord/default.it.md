@@ -1,6 +1,6 @@
 ---
 title: 'Da Losanna al profondo Nord'
-media_order: '20120706 Heidelberg  0011.jpg,20120706 Heidelberg (8714).jpg,20120707 Camping (8756).jpg,20120707 Camping (8755).jpg,20120707 Camping (8731) PANO.jpg,20120707 Pain au chocolat 0001.jpg,20120707 Hildesheim (8767).jpg,20120708 Copenhagen (8788).jpg,20120709 Camping (8869).jpg,20120709 Pietra runica (8885).jpg,IMGA0011.jpg,20120710 Uppsala (8939).jpg,fragole-svedesi.jpg,20120715 Oslo (9351).jpg,20120712 Fiordi (9044).jpg,20120712 Fiordi (9047).jpg,20120713 Fiordi (9111).jpg,20120714 Nordkapp (9321).jpg,20120713 Camminata (9224).jpg,20120713 Camminata (9208).jpg,20120713 Camminata (9210).jpg'
+media_order: '20120706 Heidelberg  0011.jpg,20120706 Heidelberg (8714).jpg,20120707 Camping (8756).jpg,20120707 Camping (8755).jpg,20120707 Camping (8731) PANO.jpg,20120707 Pain au chocolat 0001.jpg,20120707 Hildesheim (8767).jpg,20120708 Copenhagen (8788).jpg,20120709 Camping (8869).jpg,20120709 Pietra runica (8885).jpg,IMGA0011.jpg,20120710 Uppsala (8939).jpg,fragole-svedesi.jpg,20120715 Oslo (9351).jpg,20120712 Fiordi (9044).jpg,20120712 Fiordi (9047).jpg,20120713 Fiordi (9111).jpg,20120714 Nordkapp (9321).jpg,20120713 Camminata (9224).jpg,20120713 Camminata (9208).jpg,20120713 Camminata (9210).jpg,20120715 Oslo (9327).jpg,20120716 Traghetto (9409).jpg,20120716 Traghetto (9496).jpg,20120717 Traghetto (9501).jpg'
 date: '19-07-2012 15:20'
 ---
 
@@ -164,7 +164,7 @@ L'inizio del sentiero per [Knivskjellodden](http://en.wikipedia.org/wiki/Knivskj
 
 Il sentiero arriva sulla punta del promontorio, ben 1,5 Km più a Nord di Nordkapp, dal quale possiamo sbeffeggiare i turisti che hanno pagato fior fiore di quattrini per andare in un posto che non ha niente di speciale, dato che non è il più a nord d'Europa. *O meglio è il punto più a nord raggiungibile comodamente seduti in macchina...*
 
-{% vimeo 78999123 %}
+[plugin:vimeo](https://vimeo/78999123)
 
 Per quanto stancante, è una camminata fantastica. Siamo stati molto fortunati a trovare il sole caldo e pochissime nuvole. È evidente, dalle rocce e dagli oggetti scagliati dal mare sulla costa, che quando il tempo è brutto lì, lo è davvero.
 
@@ -188,7 +188,7 @@ Arrivati finalmente a Tromsø, ci concediamo una bella e sontuosa cena in un ris
 
 La compagnia si divide. C'è chi, da Tromsø, prende un altro aereo per raggiungere la fidanzata. Gli altri, me compreso, prendono l'aereo per Oslo, da dove Roberto e Manuela prendono l'aereo per l'Italia.
 
-{% bhphoto 20120715-oslo-9327 right %}
+![Oslo](20120715%20Oslo%20%289327%29.jpg)
 
 Recuperiamo la mia auto nel parcheggio dell'aeroporto ad Oslo, accompagno gli altri all'altro aeroporto, Torp, e poi verifico che l'imbarco del traghetto fosse davvero dove dice Google. Concludo la giornata con un giro in centro, cercando di spendere le poche corone norvegesi che mi erano rimaste.
 
@@ -196,12 +196,12 @@ Recuperiamo la mia auto nel parcheggio dell'aeroporto ad Oslo, accompagno gli al
 
 Visto che sono da solo, per tagliare un po' della lunga strada di ritorno verso casa, ho prenotato un traghetto per Kiel, in Germania. Il viaggio dura 20 ore e l'arrivo è previsto alle 10 del giorno dopo. Il traghetto è grosso e assomiglia ad una nave da crociera in maniera preoccupante.
 
-{% bhphoto 20120716-traghetto-9409 left %}
+![Traghetto](20120716%20Traghetto%20%289409%29.jpg)
 
 Sono un po' preoccupato perché non so come funziona l'imbarco, in mano ho solo la stampa di un email in italiano che conferma la prenotazione. In ogni caso, partenza alle 12. Una volta arrivato sul posto, mi rendo conto che ero io che mi facevo dei problemi.
 All'imbarco, dopo uno sguardo confuso all'email in italiano, l'addetta ha preso il passaporto e cercato la prenotazione col nome. Punto negativo per la Color Lines: obbligano a presentarsi due ore prima e non si può più uscire dalla zona d'imbarco, per fortuna avevo da leggere, se no la noia mi avrebbe sopraffatto.
 
-{% bhphoto 20120716-traghetto-9496 center %}
+![Traghetto](20120716%20Traghetto%20%289496%29.jpg)
 
 Una volta salito a bordo, esploro la nave. È grande e bella, ma tutto è studiato per obbligare i passeggeri a spendere e consumare. All'interno non ci sono posti a sedere liberi, si trovano tutti in bar e ristoranti. Mi sono attrezzato con giaccone e berretto e mi sono sistemato fuori, con un libro. Il vento, i gabbiani e i bambini che giocavano col vento fortissimo mi tengono compagnia. Ho visto il primo tramonto in 4 giorni, sul mare.
 
@@ -209,7 +209,7 @@ I sacchettini bianchi posti ovunque nei corridoi erano un segnale significativo,
 
 ## Sulla via del ritorno (giorno 12, 2012-07-17)
 
-{% bhphoto 20120717-traghetto-9501 left %}
+![Kiel](20120717%20Traghetto%20%289501%29.jpg)
 
 Sbarco dal traghetto alle 10. Faccio benzina e poi mi butto in autostrada. Verso le 15 arriva un colpo di sonno e mi fermo a dormire in un'area di sosta. Verso le 18 inizio a chiedermi se fare una tiratona unica ed arrivare a casa a notte fonda o fermarmi da qualche parte a dormire. Non avendo fatto piani sono un po' incerto. Esco dall'autostrada e seguo le strade normali, avendo deciso di fermarmi se avessi visto un posto che mi ispirava.
 
