@@ -109,7 +109,7 @@ Lo Skyr è uno dei pochi prodotti veramente tipici dell'Islanda. [Wikipedia ital
 
 Roberto si è portato sulle spalle uno zaino enorme con un drone. Con una autonomia di circa mezz'ora e solo una ricarica al giorno (alla sera in albergo) aveva il problema costante di selezionare i luoghi migliori dove usarlo. Francesco ed io l'abbiamo preso un po' tanto in giro per via di questo drone e del suo ronzio, ma Roberto è riuscito, malgrado il nostro costante mugugno e degli uccelli gelosi del loro spazio aereo, a fare degli ottimi video (e a conquistare l'interesse di tre americane).
 
-{% youtube sTgYy7fXDg0 %}
+[plugin:youtube](https://www.youtube.com/watch?v=sTgYy7fXDg0)
 
 ### I puffin
 
