@@ -83,3 +83,68 @@ Per tutti quelli interessati a sentire come si è arrivati qui, ecco il [discors
 
 Per quanto mi riguarda, se ne va il 95% della radiofonia italiana, sto già rispolverando il mio CD riscrivibile pieno di MP3, in previsione di tanta coda in macchina e poca radio...
 
+## OLS - Ottawa Linux Symposium (2007-07-07)
+
+Sono tornato da qualche giorno dal Canada ed è tempo di fare un po' il sunto di quello quello che ho visto. Era il mio primo viaggio oltreoceano ed è stata un'esperienza molto molto interessante. Per cominciare devo dare atto all'Air France, ho volato bene, con ottimi pasti e gentili hostess, tutto in orario e nessun problema di bagagli o coincidenze.
+
+La conferenza si è svolta per quattro giorni presso l'[Ottawa Conference Centre](http://www.openstreetmap.org/way/264535169#map=16/45.4257/-75.6901), da mercoledì a sabato, con orari molto prolungati, dalle 9 (o 10) fino alle 20, con diverse pause. Un giorno siamo arrivati alle 21 grazie ad un incontro non previsto su Linux Embedded. Non sto a contare i party che si sono svolti e che si sono prolungati fino a notte fonda, con birra a fiumi e (purtroppo) roba da mangiare abbastanza scadente.
+
+Un dato di fatto è che lo sviluppo di Linux è gestito sempre di più da dipendenti di grandi aziende come IBM, Intel, HP, Freescale e Red Hat. Queste aziende sviluppano più del 50% delle modifiche fatte ad ogni release del kernel. Finché in cima c'è Torvalds e Morton, che non lavorano per nessuna grossa compagnia, non c'è nulla da temere, in quanto sono loro che decidono cosa va bene e cosa no e hanno un buon potere di controllo. La situazione attuale, in effetti, è ottimale: le aziende ci mettono la manodopera e gli obiettivi concreti (e ci fanno parecchi soldi) e la Comunità ci mette il potere di controllo, l'innovazione e quel po' di chaos necessario all'avanzamento del progetto sul lungo periodo. Finché questa situazione di equilibrio permane, Linux continuerà a crescere ai livelli attuali, mangiando fette di mercato un po' a tutti gli altri.
+
+Tra le altre cose interessanti che ho sentito (ma ci sono in giro per la rete delle cronache molto più dettagliate di questa) c'è il fatto che finalmente qualcuno presso Red Hat ha deciso di mettere mano al gran casino che è l'audio su Linux: tra esound, alsa, oss, jack, arts e altri non ci si capisce più nulla, e soprattutto cercare di fare una chiamata voip mentre si ascolta della musica è praticamente impossibile a causa dei conflitti di volumi e mixing tra le varie librerie.
+
+(Nota dal 2016: pulseaudio sembra che inizi a funzionare a dovere, ma me ne tengo ancora lontano)
+
+Infine ci sono novità interessanti nel campo del USB senza fili (un bluetooth con gli steroidi) e del read ahead, per rendere ancora più furbe le letture da disco fisso. Alcune notizie interessanti ci sono state per l'embedded. Parecchia gente sta lavorando con Linux su sistemi piccoli, portatili e facili da usare. C'è molto lavoro in corso nel campo del risparmio energetico e nella gestione furba dei dispositivi tipici dei sistemi embedded (memoria flash, batterie, piccoli lcd).
+
+In ogni caso, evviva il Canada ;-)
+
+## Primo giorno di lavoro (2006-05-02)
+
+Oggi ho iniziato il lavoro "vero". Orario d'ufficio, mensa aziendale, casini con le timbrature per l'orario e tanta, tanta allegria (?). Mi hanno assegnato una bestia di computer, che domani dovrò finire di domare: Pentium 4 HT, SATA, bla bla.
+
+Ci devo lavorare con Linux, ma Ubuntu non vede la scheda audio e bisogna utilizzare il SAK per sbloccarla al boot, mentre Debian non vede la scheda di rete e non si installa neanche. A tutto ciò si somma il problema di dover anche concludere del lavoro 'vero'...
+
+La soluzione che ho trovato è intermedia: uso Ubuntu e intanto installo la Debian in un'altra partizione, attraverso debootstrap+chroot. Domani (forse) mi basta caricare a mano il modulo sky2 per la scheda di rete, ma più probabilmente dovrò compilarci il kernel 2.6.16.
+
+Il lavoro, almeno per le prossime due settimane, consisterà in gran parte nel continuare quello che avevo fatto nella tesi di laurea con le reti wireless, ma poi si dovrebbe allargare per comprendere anche sviluppo su architettura ARM. Pare che mi aspettino anche un po' di trasferte.
+
+Chi vivrà vedrà...
+
+## Non più Svezia... (2005-12-01)
+
+È da un po' che non scrivo più sul blog e sono stato prontamente richiamato all'ordine dai miei accaniti lettori. Abdul è sicuramente avido di notizie riguardo ad un (piccolo) incidente che mi è successo mentre ero su in Svezia, ma non ho intenzione di divulgare nient'altro oltre quello che già sta circolando: ho preso una botta in testa, ho fatto una visita al pronto soccorso di Uppsala e ho fatto la conoscenza di una tirocinante/dottoressa chiamata Linda, molto carina e gentile, che forse mi è rimasta impressa anche per lo stato un po' confusionale in cui ero in quel momento. Molti, molti medici dovrebbero prendere lezioni da lei su come trattare con i pazienti...
+
+Completato questo dovere di cronaca, passiamo ad altro. Nei 10 giorni in cui sono stato in Svezia ho visitato Uppsala e ho fatto una tessera da 'studente settimanale' per entrare nei locali solo per studenti, che rimpiango di non aver sfruttato adeguatamente, non tanto per il costo irrisorio della suddetta tessera, ma per l'ambiente molto molto bello.
+Casino, ma a livelli accettabili, luci soft e molte candele sui tavoli, mangiare e bere buono e a prezzi contenuti.
+
+Un giorno sono anche andato a Stoccolma, provando il brivido del treno svedese e del freddo pungente che penetra dentro qualunque imbottitura dopo un'intera giornata all'aperto. Città molto bella, piena di fantastici panorami grazie al sole basso e ai tanti bracci di mare, isole e ponti sui quali è costruita.
+
+Ma, cosa più importante di tutte, sono andato su per rilassarmi e ci sono riuscito. Uppsala è una città che si presta bene per farsi delle gran passeggiate e il freddo (niente di speciale, solo un giorno siamo arrivati a -6°) non mi spaventa più di tanto, anzi bisogna stare attenti a non coprirsi troppo perché camminando ci si scalda ed è meglio non mettersi a sudare.
+Insomma, alla fine posso dare un bilancio più che positivo all'esperienza svedese.
+
+*And lots of thanks to Lina, Fra and the girls of my corridor at building 11, Studentstaden, Uppsala.*
+
+## Svezia! (2005-11-13)
+
+Ora che sono diventato un Dottore in Informatica, mi sono preso un po' di meritato riposo. Seguendo le tracce di [chi](http://dreadnaut.altervista.org/) ormai ha fatto del viaggio in Svezia una scienza esatta (tranne che per i ritardi degli aerei), mi sono diretto a Uppsala per un po' di giorni di riposo, meditazione e bei paesaggi.
+
+A causa di un guasto Ryanair ha dovuto far arrivare un nuovo aereo dall'Inghilterra, causando un paio d'ore di ritardo, una perdita a catena di coincidenze ed un guadagno netto per le compagnie telefoniche e petrolifere di due nazioni (ebbene sì, sono tutti d'accordo contro di noi). Alla fine tra una cosa e l'altra siamo arrivati con una sola ora di ritardo rispetto al previsto (pur sempre le 5 del mattino, però...) perché ci sono venuti a prendere in macchina a Stoccolma.
+
+Qui a Uppsala ho una stanza in un quartiere di monolocali per studenti, con bagno privato e cucina comune. Molto tranquilla, molto bella e dato che non ci sono mobili, anche molto spaziosa :-)
+
+Stasera ho mangiato una 'pizza' (per mancanza di un nome migliore) con tzatziki, feta, olive nere, peperoni, cipolla, pezzi di carne e fette pomodori chiamata 'Stavros'.
+
+{% bhphoto 20051113-uppsala-0041 center %}
+
+Buona, anche se sto bevendo ancora adesso per cercare di farmi passare questa sete micidiale che mi è rimasta...
+
+## Tesi di laurea (2005)
+
+Ho raccolto quello che ho scritto ai tempi in una [diario dedicato](/laurea).
+
+## Chiusura della mailing list di Zena su initd.org (2004-10-28)
+
+Ieri sera tardi ho chiuso la lista del Gruppo Zena, di cui ero il moderatore.
+È un altro capitolo che si chiude in un lungo elenco, sembra che Linux a Genova riesca sempre a tirar fuori il peggio delle persone, causando conflitti e scontri su argomenti in gran parte irrilevanti.
+Dopo esser stato tra i fondatori del LUGGe, del GeLUG e del Gruppo Zena, ogni gruppo con sempre meno regole e sempre più ristretto, è arrivato il momento in cui dico basta e mi occupo di altro nella vita. Una parte del gruppo continuerà a portare avanti le attività sotto il nome di Zena, a loro auguro una buona continuazione.
