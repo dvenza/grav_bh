@@ -1,5 +1,6 @@
 ---
 title: 'Da Losanna al profondo Nord'
+media_order: '20120706 Heidelberg  0011.jpg,20120706 Heidelberg (8714).jpg,20120707 Camping (8756).jpg,20120707 Camping (8755).jpg,20120707 Camping (8731) PANO.jpg,20120707 Pain au chocolat 0001.jpg,20120707 Hildesheim (8767).jpg,20120708 Copenhagen (8788).jpg,20120709 Camping (8869).jpg,20120709 Pietra runica (8885).jpg,IMGA0011.jpg,20120710 Uppsala (8939).jpg,fragole-svedesi.jpg,20120715 Oslo (9351).jpg,20120712 Fiordi (9044).jpg,20120712 Fiordi (9047).jpg,20120713 Fiordi (9111).jpg,20120714 Nordkapp (9321).jpg,20120713 Camminata (9224).jpg,20120713 Camminata (9208).jpg,20120713 Camminata (9210).jpg'
 date: '19-07-2012 15:20'
 ---
 
@@ -9,21 +10,21 @@ La prima parte del viaggio si fa tra Losanna e Oslo, in auto. Attraverseremo la 
 
 Oggi partenza per un lungo e complicato viaggio al nord. Vacanze vere, per una volta, con amici, la macchina e la tenda, che alla fine useremo solo un paio di notti.
 
-{% bhphoto 20120706-heidelberg-0011 left %}
+![Heidelberg](20120706%20Heidelberg%20%288714%29.jpg)
 
 È un giorno di viaggio. Una volta usciti dalla Svizzera abbiamo iniziato ad incontrare parecchio traffico, dopo Basilea. Arrivati ad un posto chiamato Bühl ci siamo chiesti se avevano spostato la capitale della Germania, vista al quantità di mezzi e persone in movimento su strade ed autostrade.
 
 Lungo la strada ci fermiamo ad [Heidelberg](http://it.wikipedia.org/wiki/Heidelberg), per una sosta tecnica e turistica. In coda in una stradina nel centro storico siamo stati ad aspettare davanti ad una pasticceria che ci chiamava tentandoci in tutti i modi.
 
-{% bhphoto 20120706-heidelberg-8714 center %}
+![Panificio](20120706%20Heidelberg%20%200011.jpg)
 
 Per la sera avevamo programmato un campeggio, ma dato che non eravamo sicuri di quando saremmo arrivati, né se l'avremmo trovato, avevamo preso anche l'indirizzo di un ostello a Göttingen.
 
-{% bhphoto 20120707-camping-8756 left %}
+![Capra nel campeggio](20120707%20Camping%20%288756%29.jpg)
 
 Tutto è andato per il meglio e siamo arrivati in tempo per la nostra esperienza in tenda. Il [campeggio](http://www.openstreetmap.org/?lat=51.52023&lon=9.69156&zoom=16&layers=C "Campingplatz Am Niemetal") si trova vicino in una valletta un po' umida, con un ruscello e tanti moscerini. A parte questo (per fortuna non erano zanzare), il campeggio è molto bello e ben attrezzato. Il piccolo ristorante annesso al campeggio ci ha fornito un'ottima cena e una abbondante colazione.
 
-{% bhphoto 20120707-camping-8755 left %}
+![Campeggio](20120707%20Camping%20%288755%29.jpg)
 
 Vicino all'edificio principale ci sono un po' di animali: delle galline ed una capretta. Questa capretta mi è sembrata un po' strana, probabilmente si trovava a disagio nelle dolci colline tedesche e aveva la tendenza a cercare sempre di arrampicarsi sopra a qualcosa. Nella foto l'ho ritratta sopra ad un ceppo, ma l'abbiamo vista anche sopra oggetti molto più alti, ferma lì a guardarci e a belare ogni tanto.
 
@@ -33,17 +34,17 @@ Latitudine: 51º 31' 11.79''
 
 Dato che mi sono svegliato presto, sono andato a fare una passeggiata nel bosco per vedere cosa c'è in cima alla collina sopra al campeggio. Nessuna sorpresa purtroppo, campi coltivati e in lontananza pale eoliche, esattamente come avevamo visto per ore ed ore dall'autostrada il giorno prima.
 
-{% bhphoto  20120707-camping-8731-pano center %}
+![Campagna intorno al camping](20120707%20Camping%20%288731%29%20PANO.jpg)
 
 Prima di partire facciamo il punto. Oggi si inizia a fare qualcosa di interessante, abbiamo un traghetto da prendere, tra Puttgarden e Rødby! Prima di arrivarci, però, ci toccano tante altre lunghe ore di macchina. A Copenhagen ci aspetterà il nostro amico Roberto, che ha coperto in un paio d'ore di aereo quello che noi abbiamo fatto ieri in una giornata di macchina. La differenza fondamentale sarà che noi abbiamo potuto portarci dietro il bagnoschiuma e tutte le bottiglie d'acqua che potevamo desiderare.
 
-{% bhphoto 20120707-pain-au-chocolat-0001 left %}
+![Io e il pain au chocolat](20120707%20Pain%20au%20chocolat%200001.jpg)
 
 Dopo la pasticceria del giorno prima è rimasta la voglia e quindi ci procuriamo dei *pain au chocolat* in un forno di un paesino vicino al campeggio. Una fornaia un po’ pazza, ma molto simpatica, ha voluto vendercene ben 5 per solo un 1 euro e mezzo. Visti i prezzi bassissimi anche al supermercato poco dopo, ho seriamente pensato se andare a vivere lì.
 
 Come il giorno prima, altro traffico e code ogni 20Km. Hanno deciso di riasfaltare tutte le autostrade, tutte nello stesso momento. Facciamo una sosta a Hildesheim, dove visitiamo il centro storico, che è stato ricostruito interamente dopo la seconda guerra mondiale, e il chiostro della cattedrale, dove si trova un roseto centenario.
 
-{% bhphoto 20120707-hildesheim-8767 left %}
+![Hildesheim](20120707%20Hildesheim%20%288767%29.jpg)
 
 L'imbarco sul traghetto è molto efficiente e non ci sono tempi di attesa: si paga il pedaggio (con una signorina che aiuta ad infilare la carta di credito nella macchinetta, per evitare intoppi) e ci si imbarca subito.
 
@@ -61,14 +62,15 @@ Latitudine: 55°40′34″N
 
 Oggi visita a Copenhagen, sirenetta, palazzo reale, cose così. Ci ero già stato nel 2008 e non è che fossi rimasto molto colpito.
 
-{% bhphoto 20120708-copenhagen-8788 right %}
+![Copenhagen](20120708%20Copenhagen%20%288788%29.jpg)
+
 D'estate c'è più vita per le strade, la zona pedonale è simpatica e accogliente, mentre intorno al Tivoli l'atmosfera è confusa e soffocante, a causa anche dei cantieri. Tanti, tanti lavori in corso per la metropolitana, che finiranno chissà quando. In generale non ho cambiato idea: la città è carina, ma incasinata. Siamo saliti anche in cima alla spira della [Vor Frelsers Kirke](http://www.vorfrelserskirke.dk/italiano), da dove si gode una bella vista su tutta la città.
 
 Nel pomeriggio siamo partiti verso la Svezia, via [ponte sullo stretto Øresund](http://it.wikipedia.org/wiki/Ponte_di_%C3%98resund). Il ponte è fantastico, attraversarlo è emozionante, più per il pensiero della traversata che per la vista, un po' limitata dalle alte barriere, probabilmente contro il vento.
 
 Sulla via ci siamo fermati a Lund, dove ero già stato, sempre nel 2008. Abbiamo fatto un breve giro turistico, comprensivo di un buon gelato. Spesa all'IKA per i giorni successivi.
 
-{% bhphoto 20120709-camping-8869 left %}
+![Camping svedese](20120709%20Camping%20%288869%29.jpg)
 
 E poi, corsa fino al [campeggio](http://www.grannacamping.se/) a Gränna. Siamo stati un po' stressati dall'orario del campeggio, che alle 23 ci avrebbe chiuso fuori. Lungo la strada abbiamo cenato presso un fast-food in una stazione di servizio e poi abbiamo assistito ad un fantastico tramonto sul lago. Purtroppo non ho foto, dato che stavo guidando, ma non credo avrebbero reso a sufficienza.
 
@@ -77,7 +79,8 @@ Latitudine: 58°01'36"N
 ## Stoccolma (giorno 4, 2012-07-09)
 
 Il risveglio è piuttosto umido, il prato su cui abbiamo piantato la tenda è carico d'acqua. Una rapida colazione e poi passiamo a visitare la roccia runica di [Rök](https://it.wikipedia.org/wiki/Pietra_runica_di_R%C3%B6k), prima di tornare in autostrada.
-{% bhphoto 20120709-pietra-runica-8885 right %}
+
+![Pietra runica](20120709%20Pietra%20runica%20%288885%29.jpg)
 
 A pranzo ci fermiamo a costruire dei panini in un parco pubblico a Linköping, cercavamo il centro, ma dopo un po' di sbagli ci siamo persi e abbiamo deciso che alla fine un posto valeva l'altro.
 
@@ -87,13 +90,13 @@ A Stoccolma, gran sole e solo qualche goccia di pioggia. L'ingresso in città è
 
 Alla sera c'è ancora un sacco di luce, iniziamo ad apprezzare che stiamo viaggiando verso nord. Una mongolfiera fa capolino tra i palazzi.
 
-{% bhphoto imga0011 center %}
+![Sergels Torg](IMGA0011.jpg)
 
 Latitudine: 59° 19' 58.0372"
 
 ## Stoccolma e Uppsala (giorno 5, 2012-07-10)
 
-{% bhphoto 20120710-uppsala-8939 left %}
+![Cattedrale di Uppsala](20120710%20Uppsala%20%288939%29.jpg)
 
 Al mattino facciamo una gita ad Uppsala, dove Francesco mi ha fatto [scoprire la Svezia](/eventi-storici#svezia-2005-11-13) nel lontano 2005. Dall'ultima volta che ci sono stato, Uppsala non è cambiata di una virgola. La stazione è stata rinnovata ed ora è diventata un ristorante, lasciando l'ingresso ai treni in un edificio accanto, di vetro, che sembra un centro commerciale. Di certo non saremo gli unici a rimanere un po' confusi.
 
@@ -107,13 +110,13 @@ La strada tra Stoccolma e Oslo è di una monotonia impressionante. Alberi, alber
 
 Lungo al strada, per spezzare un po' la monotonia, facciamo una sosta a [Örebro](http://it.wikipedia.org/wiki/%C3%96rebro) ed una a [Karlstad](http://it.wikipedia.org/wiki/Karlstad_(Svezia)) per comprare delle ottime fragole svedesi (e un po’ di altre vettovaglie, dato che i prezzi in Norvegia sono molto più alti).
 
-![Fragole svedesi](/resources/images/fragole-svedesi.jpg)
+![Fragole svedesi](fragole-svedesi.jpg)
 
 Arriviamo a Oslo in tempo utile per prendere la camera in ostello e uscire a fare due passi prima di cena. Il sistema stradale è complesso e la segnaletica piuttosto scarsa. Giusto per fare un esempio, ecco [la doppia rotatoria](http://www.openstreetmap.org/?lat=59.91076&lon=10.76165&zoom=16&layers=C), **una sopra l'altra**. Mi sembra di capire che le città scandinave stanno facendo a gara a chi riesce a far impazzire i navigatori GPS nel modo più rapido e completo possibile.
 
 In città ci incontriamo con la quarta componente del gruppetto, Manuela, che ha deciso di unirsi a noi per il salto oltre il circolo polare artico. Lei ha trovato una camera tramite Couchsurfing e la sua ospite ci accompagna lungo la strada principale del centro, facendo quattro chiacchiere.
 
-{% bhphoto 20120715-oslo-9351 center %}
+![Oslo](20120715%20Oslo%20%289351%29.jpg)
 
 Tutta la zona vicino al mare intorno all'Opera House è coperta da lavori in corso. Stanno rifacendo il sistema stradale, speriamo in meglio, inoltre hanno in costruzione diversi piccoli grattacieli, sicuramente di grande valore architettonico, ma decisamente brutti.
 
@@ -131,11 +134,11 @@ Appena arrivati carichiamo tutto sull'auto a noleggio e ci dirigiamo in centro, 
 
 In un altro esempio di fantasia stradale norvegese, tra l'aeroporto e il centro di Trmosø, incontriamo le nostre prime rotonde sotterranee, scavate nella roccia sotto la città. La qualità dei cartelli rimane scarsina, scritte piccole e poco comprensibili. Il GPS sotto terra non funziona e dobbiamo affidarci al nostro istinto.
 
-{% bhphoto 20120712-fiordi-9044 left %}
+![Fiordi](20120712%20Fiordi%20%289044%29.jpg)
 
 Alla fine restiamo a Tromsø più tempo del previsto e partiamo dopo le 6 del pomeriggio. La strada ha dei pezzi con panorami spettacolari, ma consiglio vivamente di prendere i traghetti per attraversare i fiordi subito a nord di Tromsø. La luce bassa e calda della sera aiuta parecchio a rendere i panorami ancora più piacevoli. C'è tanto sole e fa caldo, siamo sopra il circolo polare e stiamo in maniche corte! Sulle pendici dei fiordi si vede però della neve.
 
-{% bhphoto 20120712-fiordi-9047 right %}
+![Fiordi](20120712%20Fiordi%20%289047%29.jpg)
 
 Lungo la strada ci fermiamo all'1 di notte a fotografare il sole di mezzanotte (c'è l'ora legale) e poco dopo arriviamo al campeggio di Alta.
 
@@ -145,19 +148,19 @@ Latitudine: 69°58'01' N
 
 Partiamo un po' più tardi, i nostri orari sono ormai legati più ai tempi e alle distanze che ad un regolare ritmo sonno/veglia. Lungo la strada passiamo su un altipiano, tra due fiordi, con la strada dritta che si perde all'infinito. Poco oltre incontriamo un gruppo di renne, che pascolano lungo la strada.
 
-{% bhphoto 20120713-fiordi-9111 left %}
+![Renne](20120713%20Fiordi%20%289111%29.jpg)
 
 Un'altra giornata di tempo stupendo, sui 20 gradi, soleggiata. Incontriamo decine e decine di bus turistici, roulotte e camper. L'attività turistica è frenetica e prendiamo atto che l'arrivare a Capo Nord coi mezzi più strani è diventato ormai piuttosto inflazionato: ci sono tricicli, tandem, motociclette che trainano minuscole roulotte.
 
-{% bhphoto 20120714-nordkapp-9321 center %}
+![Honningsvåg](20120714%20Nordkapp%20%289321%29.jpg)
 
 Dopo cinque ore di macchina in totale arriviamo a Honningsvåg intorno alle 16, il paese prima di Capo Nord. Prendiamo le camere nel campeggio/ostello (ben tenuto, economico e dotato di efficiente connessione ad Internet) e, pieni di energie e forti del bel tempo e delle temperature mite, decidiamo di fare l'escursione di circa 5 ore A/R verso un punto più a nord di Capo Nord.
 
-{% bhphoto 20120713-camminata-9224 left %}
+![Lungo la camminata](20120713%20Camminata%20%289224%29.jpg)
 
 L'inizio del sentiero per [Knivskjellodden](http://en.wikipedia.org/wiki/Knivskjellodden) si trova poco prima della barriera di pedaggio per Nordkapp. La camminata è molto lunga, 18Km andata e ritorno, ma praticamente in piano. Qualche tratto sassoso e fangoso ripaga abbondantemente lo sforzo di essersi portati gli scarponcini da montagna fin quassù. Il sole è caldo e non ci abbandona mai, l'aria invece diventa un po' tagliente e sul ritorno fa un po più freddo.
 
-{% bhphoto 20120713-camminata-9208 left %}
+![Knivskjellodden](20120713%20Camminata%20%289208%29.jpg)
 
 Il sentiero arriva sulla punta del promontorio, ben 1,5 Km più a Nord di Nordkapp, dal quale possiamo sbeffeggiare i turisti che hanno pagato fior fiore di quattrini per andare in un posto che non ha niente di speciale, dato che non è il più a nord d'Europa. *O meglio è il punto più a nord raggiungibile comodamente seduti in macchina...*
 
@@ -165,9 +168,7 @@ Il sentiero arriva sulla punta del promontorio, ben 1,5 Km più a Nord di Nordka
 
 Per quanto stancante, è una camminata fantastica. Siamo stati molto fortunati a trovare il sole caldo e pochissime nuvole. È evidente, dalle rocce e dagli oggetti scagliati dal mare sulla costa, che quando il tempo è brutto lì, lo è davvero.
 
-[Link a tutte le foto](/photos/norway/finnmark/knivskjellodden/) scattate a Knivskjellodden.
-
-{% bhphoto 20120713-camminata-9210 center %}
+![Knivskjellodden](20120713%20Camminata%20%289210%29.jpg)
 
 Ritorniamo in ostello verso le tre di notte, gli orari ormai completamente scombussolati, ci facciamo una bella pastasciutta. Io e Francesco la condiamo con un barattolo di pesto alla genovese procurato in Svezia, provocando orrore e sconforto nei nostri due amici, che optano per un tradizionale barattolo di salsa all'arrabbiata della Barilla. Il pesto non è poi così male e andiamo a dormire contenti e soddisfatti.
 
