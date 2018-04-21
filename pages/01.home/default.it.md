@@ -142,7 +142,7 @@ Buona, anche se sto bevendo ancora adesso per cercare di farmi passare questa se
 
 ## Tesi di laurea (2005)
 
-Ho raccolto quello che ho scritto ai tempi in una [diario dedicato](/laurea).
+Ho raccolto quello che ho scritto ai tempi in una [diario dedicato](/home/laurea).
 
 ## Chiusura della mailing list di Zena su initd.org (2004-10-28)
 
