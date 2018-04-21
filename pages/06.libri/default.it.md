@@ -10,6 +10,7 @@ Negli ultimi anni ho usato [LibraryThing](http://www.librarything.com/profile/ve
 ## Titan di Stephen Baxter
 
 ![Copertina di Titan - Stephen Baxter](titan_lg.jpg)
+
 Questo romanzo mi ha lasciato parecchio da pensare. [Baxter](http://it.wikipedia.org/wiki/Stephen_Baxter "Baxter su Wikipedia") ha scritto il libro prima del 1997, ma è riuscito a immaginarsi sia l'incidente allo shuttle Columbia, avvenuto nel 2003, sia la politica oscurantista applicata dall'amministrazione Bush (vedi l'insegnamento della teoria dell'evoluzione nelle scuole).
 
 La storia, appunto, parte dai giorni nostri e descrive l'ultimo sforzo di una NASA ormai destinata alla chiusura definitiva per mandare un gruppo abbastanza sgangherato di persone su Titano, dove la sonda [Huygens/Cassini](http://it.wikipedia.org/wiki/Missione_spaziale_Cassini-Huygens "Sonda Cassini su Wikipedia") avrebbe rilevato possibili tracce di vita. Per farlo, essendo ormai senza soldi, vengono utilizzati tutti gli avanzi che la NASA mantiene in magazzini, musei e parchi pubblici: vengono ripristinati gli shuttle rimanenti, le capsule apollo avanzate dalle missioni sulla Luna, le tute delle missioni lunari e così via...
@@ -36,6 +37,7 @@ Il giudizio è buono, senz'altro da leggere, a meno che non siate un po' stufi d
 ## Redliners di David Drake
 
 ![Cover of Redliners by David Drake](david_drake_redliners_cover.jpg)
+
 *Redliners* è un buon romanzo di fantascienza, forse un po' sanguinolento, ma rientra nello stile di Drake. La prima
 parte racconta lo sbarco della compagnia C41 in un porto spaziale nemico, per preparare la successiva invasione di tutto il pianeta. Tipicamente, la missione viene interrotta a metà e i soldati si ritirano con pesanti perdite, soprattutto morali. Il mega governatore di tutti i pianeti cerca una soluzione per il gruppo di superstiti diventati un pericolo per la società in quanto non più in grado di distinguere il campo di battaglia dalla società civile (*Redliners*, appunto).
 
@@ -48,6 +50,7 @@ Decisamente consigliato agli amanti del genere "fantascienza da battaglia".
 ## Perdido Street Station
 
 ![Perdido Street Station cover](perdido-cover.jpg)
+
 In un'enorme città tentacolare, che per tanti versi mi ricorda Ankh-Morpork, un inventore umano, un criminale uomo-uccello a cui sono state strappate le ali per punizione, un'artista donna-insetto che crea sculture con lo sputo e delle macchine diventate senzienti a causa di un virus lottano per salvare sé stessi e il resto della città.
 
 In realtà è tutto un gran casino e la storia ci mette un po' a ingranare. All'inizio ci sono troppi personaggi, troppe razze più o meno aliene, troppi nomi di posti, poi pian piano la storia prende un certo ritmo e lo segue in un crescendo di scene d'azione sempre più spettacolari. L'abbondanza di descrizioni aumenta sia lo spaesamento iniziale, sia l'interesse nelle parti successive.
@@ -57,6 +60,7 @@ Alla fine il giudizio è positivo, anche se non so se me la sento di leggere anc
 ## Mercury di Ben Bova
 
 ![Mercury cover](bova-mercury.jpg)
+
 Il romanzo *Mercury* di Ben Bova fa parte della serie [Grand Tour](http://www.benbova.com/gradtourlist.html "Elenco libri serie sul sito dell'autore") sui pianeti del sistema solare, ambientati in momenti diversi di un possibile sviluppo della società umana.
 
 La storia è ambientata solo in parte su Mercurio, dove si svolge l'azione principale. La parte centrale è impegnata dalla storia di Dante Alexios, nella quale vengono spiegati gli eventi che l'hanno portato a cercare vendetta verso tre persone distinte. Il libro è interessante e ben scritto e la fine non è del tutto scontata, ma neanche particolarmente originale.
@@ -86,6 +90,7 @@ In Italia è uscito nel 2002 col nome di "[Il presidente: Interface](http://www.
 ## Inconstant Star di Poul Anderson
 
 ![Poul Anderson Inconstant Star cover](anderson_inconstant_star.jpg)
+
 Inconstant Star è un romanzo di [Poul Anderson](http://en.wikipedia.org/wiki/Poul_Anderson "Articolo di wikipedia su Poul Anderson") ambientato nell'universo di [Larry Niven](http://www.larryniven.org/ "Sito di Larry Niven") chiamato "[Known Space](http://www.chronology.org/noframes/niven/timeline.html "Timeline dell'universo di Known Space")". È l'unione di due avventure che cominciano con un'indagine scientifica, prima di uno strano sistema solare, poi di un artefatto alieno abbandonato nello spazio e finiscono con un massacro, più o meno abbondante, di [Kzin](http://en.wikipedia.org/wiki/Kzin "Articolo di Wikipedia sulla razza Kzin"). Questi Kzin hanno il ruolo di alieni cattivi, sono violenti, amano il combattimento e ci si applicano con tutta la furbizia tipica dei felini, con cui condividono molte caratteristiche fisiche.
 
 La storia è ambientata poco dopo che la razza umana è entrata in possesso della tecnologia per il motore interstellare (non che l'abbia inventata da sola, gliel'hanno fornita degli altri alieni). Poche astronavi sono dotate del nuovo motore *hyperdrive* e sono tutte in mano al governo. *Rover* è l'unica ad essere posseduta da privati, i protagonisti della storia, e si presta perfettamente ad essere affittata da scienziati interessati ad avvicinare strani fenomeni astrofisici, nei quali il governo, invece, preferisce non investire nulla.
