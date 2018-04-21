@@ -28,8 +28,8 @@ title: 'Pubblicazioni accademiche'
 
 ### 2006
 
-* Dodero G., Gianuzzi V., Venzano D., Giacalone F. and Parodi F., “Peer-to-peer network technology applied to the harbour environment”, Proceedings of the [*IEEE International Workshop on Factory Communication Systems*](http://wfcs2006.ieiit.cnr.it/), 2006 ([PDF](wfcs2006.pdf))
-* Dodero G., Gianuzzi V. and Venzano D., “Reducing Latency in MANET File Access”, *REALMAN06 demo*, 2006 ([PDF](demoMobEYE.pdf))
+* Dodero G., Gianuzzi V., Venzano D., Giacalone F. and Parodi F., “Peer-to-peer network technology applied to the harbour environment”, Proceedings of the [*IEEE International Workshop on Factory Communication Systems*](http://wfcs2006.ieiit.cnr.it/), 2006 ([PDF](/thesis/wfcs2006.pdf))
+* Dodero G., Gianuzzi V. and Venzano D., “Reducing Latency in MANET File Access”, *REALMAN06 demo*, 2006 ([PDF](/thesis/demoMobEYE.pdf))
 
 ### 2005
 
