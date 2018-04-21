@@ -3,7 +3,7 @@ title: Thread
 date: '24-12-2002 12:31'
 ---
 
-Il codice qui sotto mostra come eseguire una funzione (`my_thread`) in un thread separato.
+This sample code shows how to execution a function (`my_thread`) in a different thread.
 
 ```c
 #include <stdio.h>
