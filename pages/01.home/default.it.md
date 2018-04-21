@@ -80,7 +80,9 @@ Detto in parole povere, come RockFM non ce n'è, niente alternative. Spesso ho f
 
 Un po' più di un'ora fa è iniziata la trasmissione conclusiva di 24 ore, se potete ascoltatela, a Genova sugli 87.550 o 87.750.
 
-Per tutti quelli interessati a sentire come si è arrivati qui, ecco il [discorso di addio a radio RockFM del DJ Faulisi](/download/discorsofaulisi.mp3). La comunità che si è formata dietro a RockFM si è raccolta su [RockFamily.it](http://www.rockfamily.it "RockFamily"), dove in tanti sperano in  un miracolo di qualche tipo...
+Per tutti quelli interessati a sentire come si è arrivati qui, potete ascoltare il [discorso di addio a radio RockFM del DJ Faulisi](/download/discorsofaulisi.mp3) qui sotto. La comunità che si è formata dietro a RockFM si è raccolta su [RockFamily.it](http://www.rockfamily.it "RockFamily"), dove in tanti sperano in  un miracolo di qualche tipo...
+
+![discorso di addio a radio RockFM del DJ Faulisi](/download/discorsofaulisi.mp3)
 
 Per quanto mi riguarda, se ne va il 95% della radiofonia italiana, sto già rispolverando il mio CD riscrivibile pieno di MP3, in previsione di tanta coda in macchina e poca radio...
 
