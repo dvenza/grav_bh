@@ -1,5 +1,5 @@
 ---
-title: Libri
+title: Books
 ---
 
 ## Librarything
