@@ -17,11 +17,3 @@ The original documentation was at http://svn.berlios.de/wsvn/socketcan/trunk/doc
 
 * [Kernel can.txt](http://lxr.free-electrons.com/source/Documentation/networking/can.txt)
 
-## Patches
-
-Patches submitted to update the existing documentation in the berliOS/kernel tree:
-
-* [documentation-add-timestamps.diff](/download/upatches/documentation-add-timestamps.diff) (committed in SVN)
-* [documentation-add-bcm-1.diff](/download/upatches/documentation-add-bcm-1.diff)
-* [docs-split-files.diff](/download/upatches/docs-split-files.diff) (committed in SVN)
-* [documentation-add-bcm-2.diff](/download/upatches/documentation-add-bcm-2.diff)
