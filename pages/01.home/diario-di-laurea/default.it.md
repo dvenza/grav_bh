@@ -1,5 +1,6 @@
 ---
 title: 'Diario di laurea'
+media_order: '20050608 Tesi (0012).jpg,20050711 Tesi (0026).jpg,20050608 Tesi (0023).jpg,20050704 Tesi (0025).jpg'
 ---
 
 ## Esamoni (2005-02-18)
@@ -65,7 +66,7 @@ Oggi pomeriggio è arrivato il router wireless [Linksys WRT54g](https://en.wikip
 Appena aperta la scatola, l'abbiamo subito smontato per vedere come è fatta la scheda interna, nelle nostre mani la garanzia non è durata 5 minuti. Poi abbiamo riscritto il firmware con [OpenWRT](https://openwrt.org/).
 Ora ho una rete [OLSR](http://www.olsr.org/) di 3 nodi, il linksys, il mio portatile e un blue box che mi hanno dato per i test.
 
-{% bhphoto 20050608-tesi-0012 center %}
+![Test sul terrazzo](20050608%20Tesi%20%280012%29.jpg)
 
 ## Wardriving (2005-04-23)
 
@@ -73,7 +74,7 @@ Ieri pomeriggio siamo montati in macchina facendo il giro dell'isolato dotati di
 Avremmo dovuto vedere i dati trasmessi dall'antenna sul tetto, ma dopo due giri e un cambio di antenna senza ricevere neanche un bit, siamo andati direttamente sul tetto scoprendo che la portata era di circa 30 centimetri. Forse c'è un problema sulla potenza di trasmissione della nuova scheda PCMCIA della Senao o qualche dispersione di troppo lungo il cavo che arriva fino al tetto. Martedì cercherò di capire.
 In compenso abbiamo scoperto quante reti ci sono in quella zona: vi consiglio il parcheggio dell'IKEA, se volete avere una visione quasi completa (ero troppo occupato a guidare con il portatile sulle gambe per vedere se erano in chiaro e quanto traffico ci passava, però ne ho viste almeno tre).
 
-{% bhphoto 20050711-tesi-0026 center %}
+![Wardriving](20050711%20Tesi%20%280026%29.jpg)
 
 ## Altro wardriving (2005-06-17)
 
@@ -82,7 +83,7 @@ Ieri pomeriggio, in mezzo ai miraggi e alle onde di calore che si sprigionavano 
 Ecco qualche dato utile: per cominciare, se ancora c'erano dei dubbi, le piccole antenne integrate nelle schede PCMCIA fanno abbastanza pena e sono adatte solo a distanze sotto i 50m. Ma non appena si entra nel [magico mondo delle antenne esterne](http://www.cisco.com/en/US/products/hw/wireless/ps469/products_data_sheet09186a008008883b.html), si può facilmente quadruplicare quella distanza.
 Su collegamenti punto a punto con il WiFi si possono fare anche dei chilometri, ma qui sto parlando di un access point che irradia a 360° con una potenza di 84mW (ben al di sotto dei 100mW di legge in Italia).
 
-{% bhphoto 20050608-tesi-0023 center %}
+![Antenna](20050608%20Tesi%20%280023%29.jpg)
 
 Altra informazione utile è che al di sopra dei 120-150m la copertura arborea della strada ha fatto cadere la connessione, che però si è subito ripresa a livelli accettabili a 200m, dove non c'erano più alberi nella linea d'aria tra noi e l'antenna sul tetto. Infine abbiamo osservato che le informazioni fornite da /proc/net/wireless su Linux sono in ritardo di circa 20 secondi rispetto alla realtà perché, probabilmente, il driver fa una qualche media sui dati che riceve dalla
 scheda.
@@ -100,7 +101,7 @@ Vabbè, come si suol dire: "Domani è un altro giorno..."
 Stamattina altro giro di prove, questa volta in macchina. Con una nuova antenna ho potuto ottenere risultati migliori rispetto all'altro giorno (250m con degli alberi frapposti senza problemi) e in più ho giocherellato con VNC. Ho provato ad usare un desktop remoto attraverso un hop di rete mesh, riuscendoci abbastanza bene.
 Il problema maggiore è stato il server VNC (TightVNC su Windows) che era un po' rapido a far cadere la connessione al primo accenno di problemi, però bastava ricollegarsi per ottenere un servizio decentemente fluido a 640x480 e 32bit di colore. Per l'applicazione della mia tesi la risoluzione ed i colori dovrebbero essere inferiori, quindi sono abbastanza tranquillo che il sistema (se c'è abbastanza copertura radio!) possa funzionare.
 
-{% bhphoto 20050704-tesi-0025 center %}
+![Test antenne](20050704%20Tesi%20%280025%29.jpg)
 
 ## La discussione della tesi (2005-11-10)
 
