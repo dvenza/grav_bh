@@ -1,6 +1,7 @@
 ---
 title: 'Centrale nucleare di Lucens'
 media_order: '20120422 Lucens (8445).jpg'
+published: true
 date: '22-04-2012 17:27'
 ---
 
