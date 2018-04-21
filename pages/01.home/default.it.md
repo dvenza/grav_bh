@@ -1,5 +1,6 @@
 ---
 title: Home
+media_order: '20130723_194459_Android.jpg,20130716 Dogane (0001).jpg,20130128 Leman (0237).jpg,20051113 Uppsala (0032).jpg'
 body_classes: 'title-center title-h1h2'
 ---
 
@@ -15,7 +16,7 @@ Datevi alla VERA cucina genovese!
 
 ## Ciao ciao targhe Svizzere (2013-07-23)
 
-{% bhphoto 20130723-194459-android center %}
+![Targhe](20130723_194459_Android.jpg)
 
 Con queste targhe sono andato fino ad Oslo e ritorno, ho fatto quasi 30,000km in Svizzera, Italia, Francia, Germania, Danimarca, Svezia e Norvegia. Con loro ho incontrato una ragazza meravigliosa e ho fatto tante amicizie, ho traslocato tutte le mie cose dalla Svizzera sotto il naso delle guardie di frontiera e ho preso tre multe, tutte in Francia, tutte per aver superato di qualche chilometro all'ora il limite di velocità.
 
@@ -25,7 +26,7 @@ A te, perfetto sconosciuto del canton Vaud, che avrai le mie targhe per la tua m
 
 ## Dogane francesi (2013-07-16)
 
-{% bhphoto 20130716-dogane-0001 center %}
+![Dogane francesi](20130716%20Dogane%20%280001%29.jpg)
 
 L'ufficio delle dogane francesi a Nizza si trova all'aeroporto, nella zona Cargo. È sufficiente seguire i cartelli 'cargo', lasciare un documento all'ingresso (non la carta d'identità, che serve dopo) e salire al primo piano, seguendo questa passerella che vedete nella foto.
 
@@ -33,7 +34,7 @@ Si può andare lì per tutto, non solo per merci arrivate via aerea, ma anche pe
 
 ## L'ultima notte in Svizzera (2013-01-30)
 
-{% bhphoto 20130128-leman-0237 center %}
+![Lac Leman](20130128%20Leman%20%280237%29.jpg)
 
 La vista dall'hotel, la mia ultima notte in Svizzera, prima di completare il trasloco in Francia. Un bel ricordo.
 
@@ -131,11 +132,11 @@ Ora che sono diventato un Dottore in Informatica, mi sono preso un po' di merita
 
 A causa di un guasto Ryanair ha dovuto far arrivare un nuovo aereo dall'Inghilterra, causando un paio d'ore di ritardo, una perdita a catena di coincidenze ed un guadagno netto per le compagnie telefoniche e petrolifere di due nazioni (ebbene sì, sono tutti d'accordo contro di noi). Alla fine tra una cosa e l'altra siamo arrivati con una sola ora di ritardo rispetto al previsto (pur sempre le 5 del mattino, però...) perché ci sono venuti a prendere in macchina a Stoccolma.
 
+![Uppsala Downtown](20051113%20Uppsala%20%280032%29.jpg)
+
 Qui a Uppsala ho una stanza in un quartiere di monolocali per studenti, con bagno privato e cucina comune. Molto tranquilla, molto bella e dato che non ci sono mobili, anche molto spaziosa :-)
 
 Stasera ho mangiato una 'pizza' (per mancanza di un nome migliore) con tzatziki, feta, olive nere, peperoni, cipolla, pezzi di carne e fette pomodori chiamata 'Stavros'.
-
-{% bhphoto 20051113-uppsala-0041 center %}
 
 Buona, anche se sto bevendo ancora adesso per cercare di farmi passare questa sete micidiale che mi è rimasta...
 
