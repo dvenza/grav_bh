@@ -1,6 +1,6 @@
 ---
 title: 'Diario di laurea'
-media_order: '20050608 Tesi (0012).jpg,20050711 Tesi (0026).jpg,20050608 Tesi (0023).jpg,20050704 Tesi (0025).jpg'
+media_order: '20050608 Tesi (0012).jpg,20050711 Tesi (0026).jpg,20050608 Tesi (0023).jpg,20050704 Tesi (0025).jpg,slides.pdf,thesis.pdf,thesis_en.pdf'
 ---
 
 ## Esamoni (2005-02-18)
@@ -110,9 +110,9 @@ Infatti quando è il mio turno, il mio gruppo, distratto, non se ne rende conto 
 
 La tesi e le slide della presentazione sono qua:
 
-* [Testo in italiano (PDF)](/thesis/thesis.pdf)
-* [Testo in inglese (PDF)](/thesis/thesis_en.pdf)
-* [Slide (PDF)](/thesis/slides.pdf)
+* [Testo in italiano (PDF)](thesis.pdf)
+* [Testo in inglese (PDF)](thesis_en.pdf)
+* [Slide (PDF)](slides.pdf)
 
 ## Aggiornamenti (2006-12-03)
 
